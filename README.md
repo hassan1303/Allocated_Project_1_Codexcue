@@ -51,7 +51,6 @@ Analysis was conducted using **Pandas** for data manipulation and **Matplotlib**
 1. **Invest in Underserved Regions**: Suggest opening new colleges or improving resources in specific areas.
 2. **Improve Low-Rating Sectors**: Targeted interventions are suggested for areas where quality improvements are needed.
 3. **Expand Affiliation Partnerships**: Encouraging balanced distribution of affiliations can benefit areas with fewer resources.
----
 ## How to Run This Project
 
 1. **Clone the Repository**:
